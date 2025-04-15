@@ -1,0 +1,18 @@
+Prompt 1:
+How can I fix ClickHouse Code: 62 syntax errors caused by dot-containing column names, such as test_table2.name, in backend Python scripts, and implement reliable sanitization to underscores when generating database ingestion logic?
+
+Prompt 2:
+What steps should I take to address backend FastAPI errors where malformed CSV files cause parsing failures during flat file ingestion, when updating data processing scripts?
+
+Prompt 3:
+How do I resolve React frontend freezes when rendering previews for large CSV files in the UI, encountered while modifying component files for ClickHouse data display?
+
+Prompt 4:
+What is the best approach to fix errors in backend scripts where data type mismatches occur during ClickHouse table creation from flat files, causing ingestion failures?
+
+Prompt 5:
+How can I correct errors in React frontend code where the reset button fails to clear column selections, encountered while developing UI files for flat file uploads?
+
+Prompt 6:
+What steps should I follow to handle encoding errors in backend Python scripts when processing flat files with non-standard characters, causing failures in ClickHouse ingestion?
+
